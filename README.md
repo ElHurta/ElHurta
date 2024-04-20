@@ -42,7 +42,9 @@ const myJam = [
 
     Description: A challenging hacking minigame inspired by the NieR Automata video game. Test your hacking skills and navigate through a virtual world to defeat enemies and unlock secrets.
 
-    Video: [Link to gameplay video](https://www.youtube.com/watch?v=your-video-link)
+    <video width="320" height="240" controls>
+    <source src="https://github.com/ElHurta/ElHurta/blob/main/videos/NierDemo.mp4" type="video/mp4">
+    </video>
 
 <!--
 **ElHurta/ElHurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
