@@ -36,6 +36,14 @@ const myJam = [
 - 🌨️ AWS
 - 🔨 .NET
 
+### Projects Showcase
+
+- 🎮 NieR Automata Hacking Minigame
+
+    Description: A challenging hacking minigame inspired by the NieR Automata video game. Test your hacking skills and navigate through a virtual world to defeat enemies and unlock secrets.
+
+    Video: [Link to gameplay video](https://www.youtube.com/watch?v=your-video-link)
+
 <!--
 **ElHurta/ElHurta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
