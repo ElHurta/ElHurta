@@ -11,7 +11,9 @@ const myJam = [
 ]
 ```
 
-Experienced Fullstack Developer with 4+ years of expertise in creating innovative software solutions for trusted international companies, clients, and sometimes for myself (because I feel like it). I am an eager learner, always ready to explore new technologies, and eager to take on challenges that will drive my professional growth. (Which means I'm a big nerd 👓)
+- 🌟 Experienced Fullstack Developer with 4+ years of expertise in creating innovative software solutions for trusted international companies, clients, and sometimes for myself (because I feel like it).
+- 📚 Eager learner, always ready to explore new technologies.
+- 💪 Eager to take on challenges that will drive my professional growth. (Which means I'm a big nerd 👓)
 
 ### 📚 Technologies, Languages & Tools
 
